@@ -3,11 +3,11 @@ import React from 'react';
 import Meeting from './meeting';
 
 let payload={
-  meetingNumber:87148740240,
+  meetingNumber:,
   role:0,
-  sdkKey:'78Kxp_gxTtiXExoyevr-yg',
-  sdkSecret:'xQdmqxgn09Hzo3ASpckCay7w9zuydrBQz547',
-  passWord:'Ky5Fuv',
+  sdkKey:'',
+  sdkSecret:'',
+  passWord:'',
   userName:'Testing',
   userEmail:'',
   leaveUrl:'https://learnzy.onrender.com'
